@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pixel News</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="covid_19"><font color='#0077B6'>Covid-19 News: </font>See The Latest <br/> Coverage About Covid-19</string>
+
+</resources>
