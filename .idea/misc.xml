@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/android/PixelNews/app/src/main/res/drawable-xxhdpi/ic_broken_image.xml" value="0.3828125" />
+        <entry key="..\:/android/PixelNews/app/src/main/res/drawable/autorenew.xml" value="0.1796875" />
+        <entry key="..\:/android/PixelNews/app/src/main/res/drawable/constraint_border.xml" value="0.3828125" />
+        <entry key="..\:/android/PixelNews/app/src/main/res/drawable/ic_baseline_autorenew_24.xml" value="0.2125" />
+        <entry key="..\:/android/PixelNews/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.3769230769230769" />
+        <entry key="..\:/android/PixelNews/app/src/main/res/drawable/ic_icon.xml" value="0.3769230769230769" />
+        <entry key="..\:/android/PixelNews/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.3769230769230769" />
+        <entry key="..\:/android/PixelNews/app/src/main/res/drawable/ic_padra_icon.xml" value="0.3828125" />
+        <entry key="..\:/android/PixelNews/app/src/main/res/drawable/profile.xml" value="0.3769230769230769" />
+        <entry key="..\:/android/PixelNews/app/src/main/res/drawable/profile_image.xml" value="0.3769230769230769" />
+        <entry key="..\:/android/PixelNews/app/src/main/res/layout/activity_main.xml" value="0.291213768115942" />
+        <entry key="..\:/android/PixelNews/app/src/main/res/layout/fragment_dashboard.xml" value="0.20520833333333333" />
+        <entry key="..\:/android/PixelNews/app/src/main/res/layout/fragment_home.xml" value="0.33454987834549876" />
+        <entry key="..\:/android/PixelNews/app/src/main/res/layout/fullwith_image_item.xml" value="0.25" />
+        <entry key="..\:/android/PixelNews/app/src/main/res/menu/bottom_nav_menu.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
