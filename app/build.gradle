@@ -10,7 +10,7 @@ android {
         dataBinding true
     }
     defaultConfig {
-        applicationId "com.hamzeh.pixelnews"
+        applicationId "com.hamzeh.padranews"
         minSdk 21
         targetSdk 30
         versionCode 1
