@@ -9,5 +9,5 @@ In this branch you'll find:
 
 
 <p align="center">
-<img src="https://github.com/hamzeh-pourshabanan/Padra-News/padranews.gif" alt="Illustration by Virginia Poltrack"/>
+<img src="https://github.com/hamzeh-pourshabanan/Padra-News/blob/main/padranews.gif" alt="Illustration by Virginia Poltrack"/>
 </p>
