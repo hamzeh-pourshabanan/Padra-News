@@ -9,3 +9,5 @@ In this branch you'll find:
 *   A single-activity architecture, using the **[Navigation component](https://developer.android.com/guide/navigation/navigation-getting-started)** to manage fragment operations.
 *   Reactive UIs using **StateFlow** observables and **Data Binding**.
 *   A remote data source using **retrofit** with developer API Key connecting to **[News Api](https://newsapi.org)** for fetching latest news that are queried with a one-shot operations.
+*   And of course paging 3 implementation for populating a recyclerView.
+
